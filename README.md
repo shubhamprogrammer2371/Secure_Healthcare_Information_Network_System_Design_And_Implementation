@@ -5,7 +5,7 @@
 
 
 
-I put several networking concepts such as Voice Over IP (VoIP), Spanning Tree Protocol (STP), Dynamic Host Configuration Protocol(DHCP), Subnetting, IP addressing, Secure Shell(SSH), Routers, Switches, Hierarchical Network Design, VLANs, Inter-VLAN Routing, Access Lists, Open Source Path First (OSPF), Static Routing, Wireless Access Points, Wireless Controller, Ether Channel and Firewall into practice by implementing a modest-level networking project based on a case study.
+I put several networking concepts such as Voice Over IP (VoIP), Spanning Tree Protocol (STP), Dynamic Host Configuration Protocol(DHCP), Subnetting, IP addressing, Secure Shell(SSH), Routers, Switches, Hierarchical Network Design, VLANs, Inter-VLAN Routing, Access Lists, Open Source Path First (OSPF), Hot Standby Router Protocol (HSRP), Static Routing, Wireless Access Points, Wireless Controller, Ether Channel and Firewall into practice by implementing a modest-level networking project based on a case study.
 
 
 
