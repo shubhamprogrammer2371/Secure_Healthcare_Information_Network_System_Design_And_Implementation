@@ -12,6 +12,12 @@ I put several networking concepts such as Voice Over IP (VoIP), Spanning Tree Pr
 
 
 
+Case Study :-
+
+
+
+
+
 
 Dr.Devi ShettyLabs Limited is an Indian Healthcare Service Provider specializing in diagnostic and related healthcare tests. Headquartered in Mumbai, the company conducts tests on blood, urine and various human bodily tissues. It strategically employs information technology to digitize and securely access and market its services. The companys' offices are located on the 35th, 36th and 37th floor of the Great Namaste Tower. On the 35th floor, you'll find the Pharmacy and Medical Labs, serving approxiamately 200 users, along with the Reception and Guest Area accommodating around 1000 users. The 36th floor houses the Doctors and Consultancy Department, catering to about 200 users, and also manages Procurement, HR and Finance operations for 300 users. The 37th floor is divided between Internal Auditors and Corporate functions, involving around 120 users, and an entire IT Team consisting of 300 users. The IT department is further structured into various teams, including Brand and Digital Marketing. IT Support, System/Network Admin, Network Security Engineers, Cybersecurity Analysts, Software Engineers, Cloud Engineers and IT Management. Recognizing substantial growth potential, the company anticipates that the user count for each department will double within two years, necessitating a focus on scalibility during the design and implementation phases.
 
