@@ -333,4 +333,18 @@ u) Final Testing => Conduct thorough testing to verify proper communication and 
 
 
 
+Additionally, I created the network model using Microsoft Visio, which is a visualization tool. You can view the graphic below and download the Visio file above.
+
+
+
+
+![Secure_Healthcare_Information_Network_System_Design_And_Implementation](Secure_Healthcare_Information_Network_System_Design_And_Implementation.png)
+
+
+
+
+
+
+
+
 Video Demonstration :- https://drive.google.com/file/d/1SiQg2dYcSdJm1aGHzXGRg1CF-9RU5PUR/view?usp=sharing
